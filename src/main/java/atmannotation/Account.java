@@ -1,4 +1,4 @@
-package atm;
+package atmannotation;
 
 /**
  * A bank account has a balance that can be changed by

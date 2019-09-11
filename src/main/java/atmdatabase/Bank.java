@@ -1,4 +1,4 @@
-package atm;
+package atmdatabase;
 
 import java.io.IOException;
 import java.util.HashMap;

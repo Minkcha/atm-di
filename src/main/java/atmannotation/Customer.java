@@ -1,4 +1,4 @@
-package atm;
+package atmannotation;
 
 /**
  * A bank customer with a checking and a savings account.

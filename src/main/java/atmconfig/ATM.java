@@ -1,4 +1,4 @@
-package atm;
+package atmconfig;
 
 import java.io.IOException;
 

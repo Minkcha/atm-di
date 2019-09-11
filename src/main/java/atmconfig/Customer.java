@@ -1,4 +1,4 @@
-package atm;
+package atmconfig;
 
 /**
  * A bank customer with a checking and a savings account.
